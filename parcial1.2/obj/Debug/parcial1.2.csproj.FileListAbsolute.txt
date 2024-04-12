@@ -1,0 +1,11 @@
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\obj\Debug\parcial1.2.csproj.AssemblyReference.cache
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\obj\Debug\parcial1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\obj\Debug\parcial1._2.Form1.resources
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\obj\Debug\parcial1._2.Properties.Resources.resources
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\obj\Debug\parcial1.2.csproj.GenerateResource.cache
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\obj\Debug\parcial1.2.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\bin\Debug\parcial1.2.exe.config
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\bin\Debug\parcial1.2.exe
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\bin\Debug\parcial1.2.pdb
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\obj\Debug\parcial1.2.exe
+C:\Users\Fede\Desktop\parcial1.2\parcial1.2\obj\Debug\parcial1.2.pdb
